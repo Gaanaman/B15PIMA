@@ -124,10 +124,11 @@ with st.container():
 """
 
 OUTCOMES = df['Class'].unique().tolist()
-selected_outcomes = st.pills(
+selected_outcomes = st.radio(
     "Filter by outcome",
     options=["All", "Non-Diabetic (0)", "Diabetic (1)"],
-    default="All"
+    index=0,
+    horizontal=True
 )
 
 if selected_outcomes == "Non-Diabetic (0)":
