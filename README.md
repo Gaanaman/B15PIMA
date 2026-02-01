@@ -93,7 +93,9 @@ This will:
 
 ## Streamlit Dashboard
 
-Launch the interactive web dashboard:
+**🌐 Live Demo:** [https://b15pima.streamlit.app/](https://b15pima.streamlit.app/)
+
+Launch the interactive web dashboard locally:
 ```bash
 streamlit run streamlit_app.py
 ```
