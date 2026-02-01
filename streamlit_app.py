@@ -109,7 +109,7 @@ with st.container():
         st.metric(
             "Avg Age (Diabetic)",
             f"{avg_age_diabetic:.0f} yrs",
-            f"vs {avg_age_non_diabetic:.0f} (non-diabetic)",
+            f"vs {avg_age_non_diabetic:.0f} (no age threshold)",
             delta_color="off"
         )
 
