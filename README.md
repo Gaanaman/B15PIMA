@@ -101,11 +101,11 @@ streamlit run streamlit_app.py
 ### Dashboard Features
 | Feature | Description |
 |---------|-------------|
-| 📈 **Key Metrics** | Diabetes prevalence, glucose, BMI, age statistics |
-| 🔬 **Research Questions** | Interactive visualizations for 4 clinical questions |
-| 🔗 **Correlation Heatmap** | Feature relationships at a glance |
-| 🎯 **Risk Prediction** | Input patient data and get diabetes risk assessment |
-| 📋 **Data Explorer** | Browse the raw dataset |
+| **Key Metrics** | Diabetes prevalence, glucose, BMI, age statistics |
+| **Research Questions** | Interactive visualizations for 4 clinical questions |
+| **Correlation Heatmap** | Feature relationships at a glance |
+| **Risk Prediction** | Input patient data and get diabetes risk assessment |
+| **Data Explorer** | Browse the raw dataset |
 
 ---
 
