@@ -135,4 +135,5 @@ Our analysis compared 5 algorithms. The **Random Forest** model was selected as 
 
 ---
 Modified branch, check the main branch for more info. 
+---
 *Developed for DSCD 611: Programming for Data Scientists | February 2026*
