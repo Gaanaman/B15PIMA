@@ -1,9 +1,4 @@
 # PIMA Indians Diabetes Prediction Project
-
-**Course:** DSCD 611: Programming for Data Scientists | **Group:** Cohort B, Group 15
-
-This project implements a complete Supervised Machine Learning pipeline for the early prediction of diabetes using Binary Classification. It includes an **interactive Streamlit dashboard** for data exploration and risk assessment.
-
 ---
 
 ## Table of Contents
@@ -139,19 +134,5 @@ Our analysis compared 5 algorithms. The **Random Forest** model was selected as 
 - **Clean UI**: Streamlit dashboard follows Seattle Weather demo design principles
 
 ---
-
-## Team
-
-**Cohort B · Group 15** — University of Ghana, Legon
-
-| Role | Name |
-|------|------|
-| Group Leader | Edward Tsatsu Akorlie |
-| UI/UX | Daniel K. Adotey |
-| Member | Kwame Ofori-Gyau |
-| Member | Francis A. Sarbeng |
-| Member | Caleb A. Mensah |
-
----
-
+Modified branch, check the main branch for more info. 
 *Developed for DSCD 611: Programming for Data Scientists | February 2026*
